@@ -1,0 +1,82 @@
+/* Bagian CSS dari contact.html */
+/* =============== POSTEST 2 =============== */
+li {
+    list-style: none;
+}
+
+/*  --------------------- Bagian Header --------------------- */
+.header {
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.header-logo {
+    ;
+    font-size: 40px;
+    padding: 9px 40px 0px 40px;
+}
+
+.header p {
+    padding: 0px 40px;
+}
+
+/*  --------------------- Bagian Navbar --------------------- */
+
+.navbar {
+    background-color: aquamarine;
+    height: 30px;
+}
+.nav-list li {
+    float: left;
+    padding: 5px;
+}
+
+/*  --------------------- Bagian Main ---------------------  */
+
+.content {
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.img {
+    float: left;
+    margin-right: 0px;
+    width: 320px;
+    height: 600px;
+}
+.biodata{
+    padding-top: 30px;
+}
+
+/*  --------------------- Bagian Fotoer ---------------------  */
+.footer {
+    background-color: darkslategray;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo {
+    font-size: 30px;
+    
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 10px;
+}
+
+/* =============== POSTEST 3 =============== */
+/*  --------------------- Dark/Light Mode ---------------------  */
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+}
+.change-mode {
+    background-color: black;
+    color: white;
+}
